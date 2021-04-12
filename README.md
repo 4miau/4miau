@@ -9,14 +9,19 @@
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=35>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=35>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=35>
   <br>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=35>
+  <br>
+  
+  **Currently learning:**
+  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width=35>
 </p>
 <br><br>
 
