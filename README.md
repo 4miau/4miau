@@ -20,7 +20,7 @@
 </p>
   
 <p align="center">
-  **Currently learning:**
+  <strong>Currently learning:</strong>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width=35>
