@@ -23,7 +23,7 @@
   <strong>Currently learning:</strong>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=35>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=35>
 </p>
 <br><br>
 
