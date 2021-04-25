@@ -2,7 +2,8 @@
 
 <p align="center">
   I'm an Aspiring Software & Web Developer<br>
-  I usually with work C#, JS or C++ for software projects, and I use React, CSS, PHP & TS for web development.<br>
+  I usually with work C#, JS for software projects, and I use React, CSS, PHP & TS for web development.<br>
+  I'm currently learning C++ (for projects) and SASS (to replace using standard CSS).<br>
   <a href="https://linktr.ee/miau">You can find my other links by clicking me.</a>
   <br><br>
 </p>
