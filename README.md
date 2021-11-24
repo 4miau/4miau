@@ -35,9 +35,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notmiauu&show_icons=true&theme=omni">
+  <img src="https://github-readme-stats.vercel.app/api?username=4miau&show_icons=true&theme=omni">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmiauu&layout=compact&theme=omni">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4miau&layout=compact&theme=omni">
 </p>
 
 <!--
