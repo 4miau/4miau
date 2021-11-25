@@ -1,20 +1,23 @@
 <h1 align="center"> How's it going guys, it's Miau here. </h1>
 
 <p align="center">
-  I'm an Aspiring Software & Web Developer<br>
-  I use C# and TS for software projects, and I use ReactTS, CSS (now SASS) & PHP for web development.<br>
-  I'm currently learning C++ (for projects) and SASS (to replace using standard CSS).<br>
+  I'm a Software & Web Developer<br>
   <a href="https://linktr.ee/miau">You can find my other links by clicking me.</a>
   <br>
 </p>
 
 <p align="center">
+  <strong>Currently Using</strong>
+  <br>
+  <i>Software</i>
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=35>
   <br>
-
+  <i>Web</i>
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=35>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=35>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=35>
   <br><br>
@@ -24,7 +27,7 @@
   <strong>Currently learning:</strong>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=35>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width=35>
 </p>
 
 <h4 align="center">You can view the current projects I am working on here:</h4>
