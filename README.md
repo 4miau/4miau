@@ -30,13 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width=35>
 </p>
 
-<h4 align="center">You can view the current projects I am working on here:</h4>
-<p align="center">
-    <a href="https://trello.com/b/p2rmvn8b/project-board">Miau's Project Board</a>
-    <br>
-</p>
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4miau&show_icons=true&theme=omni">
   <br><br>
