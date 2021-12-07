@@ -26,8 +26,7 @@
 <p align="center">
   <strong>Currently learning:</strong>
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width=35>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" width=35>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width=35>
 </p>
 
 <p align="center">
