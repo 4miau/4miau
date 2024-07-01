@@ -3,8 +3,9 @@
 * My real name is Scott 😎
 * Full-stack developer/engineer, also a University graduate 🎓
 * I mostly enjoy working on **Back-end** as well as creating applications/software using TypeScript and Node.js 💻
+* * You can email me at: <a href="mailto:4miau@pm.me">4miau@pm.me</a> ✉️
 * If you'd like to contact me, my discord is **4miau**　❤️
-* For other links, just click <a href="https://linktr.ee/miau">me</a>
+* For other more informal links, just click <a href="https://ayo.so/4miau">me</a>　🎲
 
 <h1 align="center">What I currently use</h1>
 
@@ -29,10 +30,15 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github"></a>
 </p>
 
+<h1 align="center">More</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4miau&show_icons=true&theme=omni">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4miau&layout=compact&theme=omni">
+  <a href="https://discord.com/users/210512035098787841"><img src="https://lanyard.cnrad.dev/api/210512035098787841?animated=true&hideStatus=true&theme=dark&idleMessage=Being%20an%20awesome%20guy"></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4miau&show_icons=true&theme=dark&hide=contribs" height="164px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4miau&layout=compact&theme=dark" height="164px">
 </p>
 
 <!--
