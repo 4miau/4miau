@@ -3,7 +3,7 @@
 * My real name is Scott 😎
 * Full-stack developer/engineer, also a University graduate 🎓
 * I mostly enjoy working on **Back-end** as well as creating applications/software using TypeScript and Node.js 💻
-* * You can email me at: <a href="mailto:4miau@pm.me">4miau@pm.me</a> ✉️
+* You can email me at: <a href="mailto:4miau@pm.me">4miau@pm.me</a> ✉️
 * If you'd like to contact me, my discord is **4miau**　❤️
 * For other more informal links, just click <a href="https://ayo.so/4miau">me</a>　🎲
 
