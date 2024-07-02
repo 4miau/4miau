@@ -25,6 +25,7 @@
   </br></br><strong>Other Technologies</strong></br>
   <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb"></a>
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws"></a>
+  <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare"></a>
   <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"></a>
   <a href="[https://aws.amazon.com](https://code.visualstudio.com)"><img src="https://skillicons.dev/icons?i=vscode"></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git"></a>
