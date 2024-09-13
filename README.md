@@ -1,12 +1,12 @@
 <h1 align="center">How's it going guys, it's Miau here.</h1>
 
-* My real name is Scott 😎
+* My name is Scott 😎
 * Full-stack developer/engineer, also a University graduate 🎓
 * I mostly enjoy working on **Back-end** as well as creating applications/software using TypeScript and Node.js 💻
 * You can email me at: <a href="mailto:4miau@pm.me">4miau@pm.me</a> ✉️
 * If you'd like to contact me, my discord is **4miau**　❤️
 * For other more informal links, just click <a href="https://linktr.ee/miau">me</a>　🎲
-* PS: My profile picture changes a lot but it's usually Liyuu or YuIrI because I am a fan of those two 💕
+* PS: My profile picture changes a lot but it's usually Liyuu, YuIrI or a cosplayer because I am a fan of them 💕
 
 <h1 align="center">What I currently use</h1>
 
