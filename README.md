@@ -1,8 +1,8 @@
 <h1 align="center">How's it going guys, it's Miau here.</h1>
 
 * My name is Scott 😎
-* Full-stack developer/engineer, also a University graduate 🎓
-* I mostly enjoy working on **Back-end** as well as creating applications/software using TypeScript and Node.js 💻
+* Full-stack developer/engineer, also a University graduate looking for employment 🎓
+* I quite enjoy working on **Back-end** as well as developing software and web apps using TypeScript and Node.js 💻
 * You can email me at: <a href="mailto:4miau@pm.me">4miau@pm.me</a> ✉️
 * If you'd like to contact me, my discord is **4miau**　❤️
 * For other more informal links, just click <a href="https://linktr.ee/miau">me</a>　🎲
