@@ -1,7 +1,7 @@
 <h1 align="center">How's it going guys, it's Miau here.</h1>
 
 * My name is Scott 😎
-* Full-stack developer/engineer, also a University graduate looking for employment 🎓
+* Full-stack software & web developer/engineer, also a University graduate looking for employment 🎓
 * I quite enjoy working on **Back-end** as well as developing software and web apps using TypeScript and Node.js 💻
 * You can email me at: <a href="mailto:4miau@pm.me">4miau@pm.me</a> ✉️
 * If you'd like to contact me, my discord is **4miau**　❤️
@@ -27,9 +27,9 @@
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws"></a>
   <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare"></a>
   <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs"></a>
-  <a href="[https://aws.amazon.com](https://code.visualstudio.com)"><img src="https://skillicons.dev/icons?i=vscode"></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git"></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu"></a>
 </p>
 
 <h1 align="center">More</h1>
