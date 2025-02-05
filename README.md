@@ -1,8 +1,7 @@
 <h1 align="center">How's it going guys, it's Miau here.</h1>
 
 * My name is Scott 😎
-* Full-stack software & web developer/engineer, also a University graduate working for Darena Solutions 🎓
-* I run my own contractor business (Miau LTD) focused on providing IT solutions to companies.
+* Full-stack software & web developer/engineer
 * I quite enjoy working on **Back-end** as well as developing software and web apps using TypeScript and Node.js 💻
 * You can email me at: <a href="mailto:4miau@pm.me">4miau@pm.me</a> ✉️
 * If you'd like to contact me, my discord is **4miau**　❤️
