@@ -35,7 +35,7 @@
 <h1 align="center">More</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/210512035098787841"><img src="https://lanyard.cnrad.dev/api/210512035098787841?animated=true&hideStatus=true&theme=dark&idleMessage=Being%20an%20awesome%20guy"></a>
+  <a><img src="https://lanyard.cnrad.dev/api/210512035098787841?animated=true&hideStatus=true&theme=dark&idleMessage=Being%20an%20awesome%20guy"></a>
 </p>
 
 <p align="center">
