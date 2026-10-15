@@ -2,7 +2,7 @@
 
 * My name is Scott 😎
 * Full-stack software & web developer/engineer
-* My Portfolio: https://4miau.us
+* My Portfolio: https://miau.boo
 * I quite enjoy working on **Back-end** as well as developing software and web apps using TypeScript and Node.js 💻
 * You can email me at: <a href="mailto:4miau@pm.me">4miau@pm.me</a> ✉️
 * If you'd like to contact me, my discord is **4miau**　❤️
